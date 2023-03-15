@@ -55,6 +55,7 @@ export default function Assignments() {
     endDate: "",
     available: "",
     assignment: "",
+    happy: "",
   });
 
   const navigate = useNavigate();
