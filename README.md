@@ -2,7 +2,7 @@
 
 WorldStrides Full Stack Application.
 
-Link: https://spectacular-pudding-13d43e.netlify.app/
+Link: https://grand-crumble-8aac30.netlify.app
 
 ## Project summary
 
